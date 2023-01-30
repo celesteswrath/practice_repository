@@ -7,3 +7,7 @@ I updated this file.
 ## This is a subheader
 
 I made this change locally.
+
+## Local development
+
+Open index.html in your browser
